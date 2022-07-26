@@ -1,5 +1,6 @@
 data-path="/usr/app/data"
 
+bootnodes=["enode://84645cd4352a444cd2dad567174e52acfb821867768bf2b01a4b661abe168645ecb30ad30b87851003fcae132f9f9e2c6b98a14ce1a7eaa57a65959d45606b3c@127.0.0.1:30301"]
 rpc-http-enabled=true
 rpc-http-api=["ETH","NET","IBFT"]
 rpc-http-port=8548
