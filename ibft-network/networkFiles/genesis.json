@@ -1,0 +1,23 @@
+{
+  "config" : {
+    "chainId" : 15,
+    "muirglacierblock" : 0,
+    "ibft2" : {
+      "blockperiodseconds" : 2,
+      "epochlength" : 30000,
+      "requesttimeoutseconds" : 4
+    }
+  },
+  "nonce" : "0x0",
+  "timestamp" : "0x0",
+  "gasLimit" : "Ox1fffffffffffff",
+  "difficulty" : "ox1",
+  "mixHash" : "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+  "coinbase" : "0x0000000000000000000000000000000000000000",
+  "alloc" : {
+    "1D0a9BCD31fEE726726d5Fa3f9971Bd2e38215d0" : {
+      "balance" : "10000000000000000000000000000"
+    }
+  },
+  "extraData" : "0xf87ea00000000000000000000000000000000000000000000000000000000000000000f854942829d45e921074c3587132f850ffc591810c140294719ba679546a18ef33e1a6c071403e2bba84617e94016eb445f2dc60911bc0f3641c4531e108d7d4df94f5f2f6c6a221122eddab4e8e87360b0545af8b53808400000000c0"
+}

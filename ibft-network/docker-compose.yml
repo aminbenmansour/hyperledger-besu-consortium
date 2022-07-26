@@ -5,6 +5,6 @@ services:
     container_name: "genesis-generator"
     volumes:
       - .:/usr/app/
-    command: operator generate-blockchain-config -- config-file=/usr/app/ibftConfigFile.json --to=/usr/app/networkFiles --private-key-file-name=key
+    command: operator generate-blockchain-config --config-file=/usr/app/ibftConfigFile.json --to=/usr/app/networkFiles --private-key-file-name=key
 volumes:
     .:
