@@ -1,0 +1,4 @@
+caches
+database
+
+ibft-network/node-*/data/DATABASE_METADATA.json
